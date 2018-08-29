@@ -1,0 +1,37 @@
+body{
+	background:url(../img/photoblogbg.jpg);
+
+	background-size: cover;
+	background-position: center; 
+	background-repeat: no-repeat;
+	font-family: Lato;
+
+
+}
+.margin{
+	text-align: center;
+	
+	padding-left: 25%;
+	padding-right: 25%;
+	padding-top: 15%;
+	height: auto;
+	max-height: 700px;
+
+	}
+html{
+	height: 100%;
+}
+#log{
+	padding-bottom: 10%;
+}
+.jumbotron{ 
+	color: #2c3e50;  
+	background :#ecf0f1; 
+
+}
+.navbar-inverse{
+	background-color: #2c3e50; 
+}
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav>li>a{
+	color:white;
+}
